@@ -2,3 +2,4 @@ Hola, este es un archivo cualquiera
 para empezar de una buena vez con el curso de 
 Python intermedio.
 Creo que estoy entendiendo Git 
+Ahora estoy por agregar el tercer commit
