@@ -3,3 +3,4 @@ para empezar de una buena vez con el curso de
 Python intermedio.
 Creo que estoy entendiendo Git 
 Ahora estoy por agregar el tercer commit
+Hoy estudió hasta las 3 de la mañana
