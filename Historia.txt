@@ -1,0 +1,3 @@
+Hola, este es un archivo cualquiera 
+para empezar de una buena vez con el curso de 
+Python intermedio.
