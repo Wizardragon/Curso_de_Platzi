@@ -1,3 +1,9 @@
+Este es el pasado de Elmalditowizard.
+Se vino a Alemania en busca de un sueño
+aprender varios idiomas y hacer su carrera universitaria
+como programador y consecuentemente desarrollarse como
+profecional
+
 Hola, este es un archivo cualquiera 
 para empezar de una buena vez con el curso de 
 Python intermedio.
