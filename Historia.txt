@@ -5,3 +5,6 @@ Creo que estoy entendiendo Git
 Ahora estoy por agregar el tercer commit
 Hoy estudió hasta las 3 de la mañana
 Primera subida a Git hub
+En estos momentos Teo está esperando
+al 21. para cobrar y de esa manera poder
+pagarse las clases de alemán en la plataforma Lingodo
